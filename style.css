@@ -1,0 +1,15 @@
+.container {
+  max-width: 450px;
+}
+
+.case {
+  height: 50px;
+}
+
+.bleu {
+  background-color: #00b0f0;
+}
+
+.blanc {
+  background-color: white;
+}
